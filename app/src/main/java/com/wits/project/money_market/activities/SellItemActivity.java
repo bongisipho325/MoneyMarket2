@@ -69,7 +69,7 @@ public class SellItemActivity extends AppCompatActivity {
         });
     }
 
-    private static void sellItem(final SellItemActivity c, ContentValues cv){
+    public static void sellItem(final SellItemActivity c, ContentValues cv){
         new DbManager("http://lamp.ms.wits.ac.za/~s1520337/ITEM.php", cv) {
             @Override
             protected void onPostExecute(String output) {
@@ -82,5 +82,9 @@ public class SellItemActivity extends AppCompatActivity {
                 }
             }
         }.execute();
+    }
+
+    public static int add(int a, int b){
+        return a + b;
     }
 }
