@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5272e40e6d56100985816733ea15d861\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\a37d17c18018089c811553ad51747d3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\d397d363ed8405feca2be93091819bd1\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\42726888f49a32a6dd8f340b8b090c93\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\b1ceeb58fb40c1d128b00b735b106b2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\b62168fd3b0ebdb2d0e60515c8e5949d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\ae24a27f2fea540a71e763d185a27f59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\ca8903034b46df95954b42adfd297923\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\bd0393a96edfe0c4e8b2d027e823524c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\ad711513acb15348f0b2c393e2efd28e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\f9acdd10e7c51ed5bad3209bd4f76f18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\0c96f9c274a468ed5b51a1af06f44eae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\24acd46efda2c94a87103c97539a0d2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\96927b593b9022fa2178f685588e8ce1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\96b4a00fd6487a5916b23dfe4fdb7cd9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\686390f8f2513e0d91786114b4b45b16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5df4e67eb7c6a7dc58daed21209f452e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\71bb97990117b4684b376f6a5e3aca23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\4de89b100f21a5433d50034bdf9845ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5ab3e3b20a219bad3b6e3ee21cb23798\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\abab3875de3509021a5e6c666027202b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\b1726ef90a6cd3ec08f9d2d9dfadfe9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\c7979e045fc389c85fa6eac7ff1b5e78\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\95f07836ee2f866058bbda2e0d474eca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5ab366f22231a6f61c4ff7004bcdeb52\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\4fe38638d89739802f379ebf3ff7121c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\736e16f195974abd484641df45a8cde0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\35c1b0048ad98005f577e8c3533325e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\4ce028800b4851a0e0dcbd47a309f527\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\a3b9818becb908fe2e8bd07a603b6356\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\96c4341eceee7777117d3eba55d438e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\8789ba53ecea47505045536da5f8f766\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:8:5-36:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5272e40e6d56100985816733ea15d861\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5272e40e6d56100985816733ea15d861\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\d397d363ed8405feca2be93091819bd1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\d397d363ed8405feca2be93091819bd1\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\42726888f49a32a6dd8f340b8b090c93\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\42726888f49a32a6dd8f340b8b090c93\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5ab3e3b20a219bad3b6e3ee21cb23798\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5ab3e3b20a219bad3b6e3ee21cb23798\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\abab3875de3509021a5e6c666027202b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\abab3875de3509021a5e6c666027202b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5ab3e3b20a219bad3b6e3ee21cb23798\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:11:9-41
+	android:allowClearUserData
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:17:9-42
+	tools:ignore
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:18:9-28
+	android:icon
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:16:9-44
+activity#com.wits.project.money_market.activities.LogInActivity
+ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:21:13-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.wits.project.money_market.activities.MainActivity
+ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:31:9-89
+	android:name
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:31:19-87
+activity#com.wits.project.money_market.activities.RegistrationActivity
+ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:32:9-97
+	android:name
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:32:19-95
+activity#com.wits.project.money_market.activities.ItemViewActivity
+ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:33:9-93
+	android:name
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:33:19-91
+activity#com.wits.project.money_market.activities.SellItemActivity
+ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:34:9-93
+	android:name
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml:34:19-91
+uses-sdk
+INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5272e40e6d56100985816733ea15d861\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5272e40e6d56100985816733ea15d861\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\a37d17c18018089c811553ad51747d3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\a37d17c18018089c811553ad51747d3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\d397d363ed8405feca2be93091819bd1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\d397d363ed8405feca2be93091819bd1\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\42726888f49a32a6dd8f340b8b090c93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\42726888f49a32a6dd8f340b8b090c93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\b1ceeb58fb40c1d128b00b735b106b2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\b1ceeb58fb40c1d128b00b735b106b2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\b62168fd3b0ebdb2d0e60515c8e5949d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\b62168fd3b0ebdb2d0e60515c8e5949d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\ae24a27f2fea540a71e763d185a27f59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\ae24a27f2fea540a71e763d185a27f59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\ca8903034b46df95954b42adfd297923\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\ca8903034b46df95954b42adfd297923\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\bd0393a96edfe0c4e8b2d027e823524c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\bd0393a96edfe0c4e8b2d027e823524c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\ad711513acb15348f0b2c393e2efd28e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\ad711513acb15348f0b2c393e2efd28e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\f9acdd10e7c51ed5bad3209bd4f76f18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\f9acdd10e7c51ed5bad3209bd4f76f18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\0c96f9c274a468ed5b51a1af06f44eae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\0c96f9c274a468ed5b51a1af06f44eae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\24acd46efda2c94a87103c97539a0d2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\24acd46efda2c94a87103c97539a0d2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\96927b593b9022fa2178f685588e8ce1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\96927b593b9022fa2178f685588e8ce1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\96b4a00fd6487a5916b23dfe4fdb7cd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\96b4a00fd6487a5916b23dfe4fdb7cd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\686390f8f2513e0d91786114b4b45b16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\686390f8f2513e0d91786114b4b45b16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5df4e67eb7c6a7dc58daed21209f452e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5df4e67eb7c6a7dc58daed21209f452e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\71bb97990117b4684b376f6a5e3aca23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\71bb97990117b4684b376f6a5e3aca23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\4de89b100f21a5433d50034bdf9845ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\4de89b100f21a5433d50034bdf9845ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5ab3e3b20a219bad3b6e3ee21cb23798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5ab3e3b20a219bad3b6e3ee21cb23798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\abab3875de3509021a5e6c666027202b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\abab3875de3509021a5e6c666027202b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\b1726ef90a6cd3ec08f9d2d9dfadfe9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\b1726ef90a6cd3ec08f9d2d9dfadfe9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\c7979e045fc389c85fa6eac7ff1b5e78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\c7979e045fc389c85fa6eac7ff1b5e78\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\95f07836ee2f866058bbda2e0d474eca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\95f07836ee2f866058bbda2e0d474eca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5ab366f22231a6f61c4ff7004bcdeb52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\5ab366f22231a6f61c4ff7004bcdeb52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\4fe38638d89739802f379ebf3ff7121c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\4fe38638d89739802f379ebf3ff7121c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\736e16f195974abd484641df45a8cde0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\736e16f195974abd484641df45a8cde0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\35c1b0048ad98005f577e8c3533325e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\35c1b0048ad98005f577e8c3533325e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\4ce028800b4851a0e0dcbd47a309f527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\4ce028800b4851a0e0dcbd47a309f527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\a3b9818becb908fe2e8bd07a603b6356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\a3b9818becb908fe2e8bd07a603b6356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\96c4341eceee7777117d3eba55d438e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\96c4341eceee7777117d3eba55d438e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\8789ba53ecea47505045536da5f8f766\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\8789ba53ecea47505045536da5f8f766\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mulisa\AndroidStudioProjects\MoneyMarket2\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\42726888f49a32a6dd8f340b8b090c93\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\42726888f49a32a6dd8f340b8b090c93\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\42726888f49a32a6dd8f340b8b090c93\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\42726888f49a32a6dd8f340b8b090c93\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\Mulisa\.gradle\caches\transforms-2\files-2.1\42726888f49a32a6dd8f340b8b090c93\AndroidManifest.xml:24:13-83
